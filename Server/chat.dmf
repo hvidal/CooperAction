@@ -1,0 +1,217 @@
+<99>
+[Objeto1]
+chave=1 10
+basico=391 208 44 60 2
+label=Recurso Financeiro 
+
+[Objeto2]
+chave=1 9
+basico=324 208 43 63 2
+label=Recurso Instrumental 
+
+[Objeto3]
+chave=1 8
+basico=259 207 42 62 2
+label=Recurso de Software 
+
+[Objeto4]
+chave=1 7
+basico=190 207 42 66 2
+label=Recurso de Hardware 
+
+[Objeto5]
+chave=1 6
+basico=58 220 30 60 2
+label=Treinamento 
+
+[Objeto6]
+chave=1 5
+basico=58 152 30 60 2
+label=Perfil 
+
+[Objeto7]
+chave=1 4
+basico=288 128 40 79 2
+label=Recurso de Infra-Estrutura 
+
+[Objeto8]
+chave=1 3
+basico=186 125 30 60 2
+label=Pessoal 
+
+[Objeto9]
+chave=1 1
+basico=243 59 30 60 2
+label=Recurso 
+
+[Objeto10]
+chave=1 0
+basico=104 59 30 60 2
+label=Atividade 
+
+[Qtd]
+obj=10
+Conn=9
+
+[Conector1]
+chave=2
+basico=3 5
+
+[Conector2]
+chave=2
+basico=5 6
+
+[Conector3]
+chave=2
+basico=0 1
+
+[Conector4]
+chave=4
+basico=3 1
+
+[Conector5]
+chave=4
+basico=4 1
+
+[Conector6]
+chave=4
+basico=7 4
+
+[Conector7]
+chave=4
+basico=8 4
+
+[Conector8]
+chave=4
+basico=9 4
+
+[Conector9]
+chave=4
+basico=10 4
+
+[Features]
+Nome=Classificação sobre Recursos
+LastModified=14:39:20 - 09/10/2000
+HSize=1000
+VSize=1000
+
+[Descricao]
+NumLinhas=-1
+NumLinhas=-1
+<#memb hugo#>
+<#memb hugo2#>
+<#move 0~179,270#>
+<#move 0~184,301#>
+<#move 0~184,315#>
+<#move 0~184,319#>
+<#move 0~188,324#>
+<#move 0~194,334#>
+<#move 0~194,340#>
+<#move 0~189,340#>
+<#move 0~178,324#>
+<#move 0~169,305#>
+<#move 0~163,297#>
+<#move 0~150,291#>
+<#move 0~127,285#>
+<#move 0~96,281#>
+<#move 0~67,278#>
+<#move 0~57,278#>
+<#move 0~57,280#>
+<#move 0~57,286#>
+<#move 0~57,291#>
+<#move 0~59,291#>
+<#move 0~62,291#>
+<#move 0~67,272#>
+<#move 1~158,319#>
+<#move 1~140,304#>
+<#move 1~129,295#>
+<#move 1~125,290#>
+<#move 1~120,287#>
+<#move 1~110,280#>
+<#move 1~104,274#>
+<#move 1~99,265#>
+<#move 1~99,248#>
+<#move 1~112,217#>
+<#move 1~117,184#>
+<#move 1~121,164#>
+<#move 1~123,158#>
+<#move 1~126,146#>
+<#move 1~126,139#>
+<#move 1~126,137#>
+<#move 1~133,133#>
+<#move 1~141,130#>
+<#move 1~145,127#>
+<#move 1~151,125#>
+<#move 1~163,124#>
+<#move 1~171,124#>
+<#move 1~172,124#>
+<#move 1~177,124#>
+<#move 1~183,124#>
+<#move 1~184,121#>
+<#move 1~187,119#>
+<#move 1~192,115#>
+<#move 1~195,110#>
+<#move 1~199,107#>
+<#move 1~199,104#>
+<#move 1~201,104#>
+<#slct 1~3$-15,-6#>
+<#drag 1~201,104#>
+<#drag 1~197,104#>
+<#drag 1~180,101#>
+<#drag 1~168,95#>
+<#drag 1~165,94#>
+<#drag 1~165,92#>
+<#drag 1~162,88#>
+<#drag 1~161,83#>
+<#drag 1~161,82#>
+<#drag 1~159,82#>
+<#drag 1~155,87#>
+<#drag 1~152,96#>
+<#drag 1~152,102#>
+<#drag 1~152,107#>
+<#drag 1~152,108#>
+<#drag 1~153,108#>
+<#drag 1~154,108#>
+<#FmDg 1#>
+<#move 1~154,108#>
+<#move 1~156,108#>
+<#move 1~165,110#>
+<#move 1~187,117#>
+<#move 1~210,117#>
+<#move 1~237,117#>
+<#move 1~271,117#>
+<#move 1~303,119#>
+<#move 1~310,119#>
+<#move 1~310,118#>
+<#move 1~315,118#>
+<#move 1~316,118#>
+<#move 1~318,118#>
+<#move 1~319,118#>
+<#move 1~321,118#>
+<#move 1~322,118#>
+<#move 1~324,119#>
+<#move 1~325,125#>
+<#move 1~325,126#>
+<#move 1~324,124#>
+<#move 1~321,119#>
+<#move 1~318,118#>
+<#move 1~318,116#>
+<#slct 1~4$-9,8#>
+<#drag 1~315,120#>
+<#drag 1~312,123#>
+<#drag 1~311,125#>
+<#drag 1~309,125#>
+<#drag 1~305,125#>
+<#drag 1~302,124#>
+<#drag 1~297,122#>
+<#drag 1~296,122#>
+<#FmDg 1#>
+<#move 1~296,122#>
+<#move 1~294,122#>
+<#chat 1~fala bicho!#>
+<#move 1~275,122#>
+<#move 1~295,122#>
+<#move 1~333,134#>
+<#move 1~376,161#>
+<#chat 0~tudo beleza!!#>
+<#move 1~387,143#>

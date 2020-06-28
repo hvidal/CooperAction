@@ -1,0 +1,98 @@
+[Objeto1]
+chave=1 10
+basico=391 208 44 60 2
+label=Recurso Financeiro 
+
+[Objeto2]
+chave=1 9
+basico=324 208 43 63 2
+label=Recurso Instrumental 
+
+[Objeto3]
+chave=1 8
+basico=259 207 42 62 2
+label=Recurso de Software 
+
+[Objeto4]
+chave=1 7
+basico=190 207 42 66 2
+label=Recurso de Hardware 
+
+[Objeto5]
+chave=1 6
+basico=58 220 30 60 2
+label=Treinamento 
+
+[Objeto6]
+chave=1 5
+basico=58 152 30 60 2
+label=Perfil 
+
+[Objeto7]
+chave=1 4
+basico=288 128 40 79 2
+label=Recurso de Infra-Estrutura 
+
+[Objeto8]
+chave=1 3
+basico=186 125 30 60 2
+label=Pessoal 
+
+[Objeto9]
+chave=1 1
+basico=243 59 30 60 2
+label=Recurso 
+
+[Objeto10]
+chave=1 0
+basico=104 59 30 60 2
+label=Atividade 
+
+[Qtd]
+obj=10
+Conn=9
+
+[Conector1]
+chave=2
+basico=3 5
+
+[Conector2]
+chave=2
+basico=5 6
+
+[Conector3]
+chave=2
+basico=0 1
+
+[Conector4]
+chave=4
+basico=3 1
+
+[Conector5]
+chave=4
+basico=4 1
+
+[Conector6]
+chave=4
+basico=7 4
+
+[Conector7]
+chave=4
+basico=8 4
+
+[Conector8]
+chave=4
+basico=9 4
+
+[Conector9]
+chave=4
+basico=10 4
+
+[Features]
+Nome=Classificação sobre Recursos
+LastModified=14:39:20 - 09/10/2000
+HSize=1000
+VSize=1000
+
+[Descricao]
+NumLinhas=-1

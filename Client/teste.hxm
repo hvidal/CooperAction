@@ -1,0 +1,35 @@
+[Objeto1]
+chave=1 1760754519
+basico=255 107 30 60 2
+label=hh
+[Objeto2]
+chave=1 387344170
+basico=154 270 30 60 2
+label=bmb
+[Objeto3]
+chave=1 883307062
+basico=67 102 30 60 2
+label=nmn
+[Qtd]
+obj=3
+Conn=2
+[Conector1]
+chave=6
+basico=883307062 1760754519
+label=
+maior=13234228
+position=3
+[Conector2]
+chave=7
+basico=883307062 387344170
+label=
+maior=13234228
+position=3
+[Features]
+Nome=New Model
+LastModified=16:53:31 - 14/07/2001
+Domain=
+HSize=1000
+VSize=1000
+[Descricao]
+NumLinhas=-1
